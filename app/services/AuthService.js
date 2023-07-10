@@ -31,6 +31,8 @@ class AuthService {
             access: [
                 'authentication',
                 'film',
+                'reservation',
+                'payement',
             ]
         }, "1h");
 
